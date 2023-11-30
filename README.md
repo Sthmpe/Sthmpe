@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Olanite
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning C, Python, Nodejs, Reactjs
 - 💞️ I’m looking to collaborate on projects
 
